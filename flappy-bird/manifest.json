@@ -1,0 +1,27 @@
+{
+  "name": "Flappy Bird",
+  "short_name": "Flappy Bird",
+  "description": "Un clon completo del clásico juego Flappy Bird, implementado con HTML5, CSS3 y JavaScript vanilla",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#70c5ce",
+  "theme_color": "#70c5ce",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Ccircle cx='96' cy='96' r='80' fill='%23FFD700'/%3E%3Ccircle cx='96' cy='96' r='75' fill='%23FFA500' stroke='%23FF8C00' stroke-width='3'/%3E%3Ccircle cx='110' cy='80' r='15' fill='white'/%3E%3Ccircle cx='113' cy='80' r='8' fill='black'/%3E%3Cpath d='M 130 96 L 150 93 L 150 99 Z' fill='%23FF6347'/%3E%3Cellipse cx='70' cy='110' rx='20' ry='15' fill='%23FFA500'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Ccircle cx='256' cy='256' r='220' fill='%23FFD700'/%3E%3Ccircle cx='256' cy='256' r='210' fill='%23FFA500' stroke='%23FF8C00' stroke-width='8'/%3E%3Ccircle cx='290' cy='220' r='40' fill='white'/%3E%3Ccircle cx='298' cy='220' r='22' fill='black'/%3E%3Cpath d='M 350 256 L 400 248 L 400 264 Z' fill='%23FF6347'/%3E%3Cellipse cx='190' cy='290' rx='55' ry='40' fill='%23FFA500'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["games", "entertainment"],
+  "lang": "es",
+  "dir": "ltr"
+}
