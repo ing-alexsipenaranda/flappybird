@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Flappy Bird Gameplay](../juego.png)
+![Flappy Bird Gameplay](juego.png)
 
 **Un clon completo del clásico juego Flappy Bird**
 
@@ -25,15 +25,15 @@ Implementado con HTML5, CSS3 y JavaScript ES6+ vanilla (sin frameworks ni librer
 <table>
 <tr>
 <td width="33%">
-<img src="../carga.png" alt="Pantalla de Carga" width="100%"/>
+<img src="carga.png" alt="Pantalla de Carga" width="100%"/>
 <p align="center"><strong>Pantalla de Carga</strong></p>
 </td>
 <td width="33%">
-<img src="../juego.png" alt="Gameplay" width="100%"/>
+<img src="juego.png" alt="Gameplay" width="100%"/>
 <p align="center"><strong>Gameplay</strong></p>
 </td>
 <td width="33%">
-<img src="../gameover.png" alt="Game Over" width="100%"/>
+<img src="gameover.png" alt="Game Over" width="100%"/>
 <p align="center"><strong>Game Over</strong></p>
 </td>
 </tr>
